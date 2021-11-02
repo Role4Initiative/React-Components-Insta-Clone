@@ -4,6 +4,8 @@
   Look at each file to see what props need to be passed!
 */
 
+// wording for the push/pull
+
 // Import the state hook
 import React from 'react';
 // Import the Posts (plural!) and SearchBar components, since they are used inside App component
